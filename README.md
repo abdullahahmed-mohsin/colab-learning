@@ -18,6 +18,7 @@ cd colab-learning
 
 To install dependencies (if any):
 
+pip install -r requirements.txt
 
 ## 🧠 Purpose
 This repo documents my learning journey as I improve my coding and software engineering skills.
